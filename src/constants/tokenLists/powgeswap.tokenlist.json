@@ -1,0 +1,95 @@
+{
+  "name": "Uniswap V2 Unsupported List",
+  "timestamp": "2021-05-04T20:47:02.923Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://www.dextools.io/resources/tokens/logos/ethw/0x172c82bdefec820309ec54debe96c16bd95f257d.png",
+  "keywords": ["powgeswap"],
+  "tokens": [
+    {
+        "chainId": 10001,
+        "address": "0x172c82bdefec820309ec54debe96c16bd95f257d",
+        "name": "powgecoin",
+        "symbol": "POWGE",
+        "decimals": 18,
+        "logoURI": "https://www.dextools.io/resources/tokens/logos/ethw/0x172c82bdefec820309ec54debe96c16bd95f257d.png"
+        },
+        {
+          "name": "Wrapped ETHW",
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "symbol": "WETHW",
+          "decimals": 18,
+          "chainId": 10001,
+          "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0x2ad7868ca212135c6119fd7ad1ce51cfc5702892",
+            "name": "Chainge Bridged USDT",
+            "symbol": "cbUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ad7868ca212135c6119fd7ad1ce51cfc5702892/logo.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0xbd1563046a90f18127fd39f3481fd8d6ab22877f",
+            "name": "Chainge Bridged BNB",
+            "symbol": "cbBNB",
+            "decimals": 9,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+        },
+
+        {
+            "chainId": 10001,
+            "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+            "name": "Icosa",
+            "symbol": "ICSA",
+            "decimals": 9,
+            "logoURI": "https://etherscan.io/token/images/hedronv3_32.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0x06f5c4b437fbeedbeb2d734c8924f9f8b6517c9f",
+            "name": "OKDEX",
+            "symbol": "OKDEX",
+            "decimals": 18,
+            "logoURI": "https://okdex.trade/images/logo-dark.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0xB6334BeDf341d111525A1Db8fBE7805dE57De957",
+            "name": "BridgeTech USDT",
+            "symbol": "bUSDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0xC675FDBe260e1ee93106Ee596B916952a9344f44",
+            "name": "BridgeTech USDC",
+            "symbol": "bUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 10001,
+            "address": "0xB007f6c4511fD2b70a02BfcFAb6072BcEf21788d",
+            "name": "BridgeTech WETH (PoS)",
+            "symbol": "bWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Powswap",
+            "address": "0x02Cc78362D8124A17d3F884Dbd7476c4ec534Cdb",
+            "symbol": "POW",
+            "decimals": 18,
+            "chainId": 10001,
+            "logoURI": "https://raw.githubusercontent.com/powswap/powswap-ui/main/public/images/android-chrome-192x192.png"
+        }
+  ]
+}
